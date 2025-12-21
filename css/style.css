@@ -2,3 +2,17 @@ body{
     font-family: Arial, sans-serif;
     padding: 40px;
 }
+
+header{
+    margin-bottom: 40px;
+}
+
+main section{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    margin-top: 40px;
+    font-size: 14px;
+}
