@@ -16,3 +16,16 @@ footer{
     margin-top: 40px;
     font-size: 14px;
 }
+
+button{
+    padding: 10px 16px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #555;
+}
